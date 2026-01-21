@@ -40,7 +40,7 @@ const saveHistory = ()=>{
       <span>{increase}</span>
 
       <button onClick={() => setIncrease(increase + 1)}
-      style={ {backgroundColor : increase >= 10  ? "red" : "yellow"}}> Chal Bhai.....</button>
+      style={ {backgroundColor : increase >= 10000  ? "green" : "pink"}}> Chal Bhai.....</button>
       
         <div className="record" id="history">
         <button onClick={() => setIncrease(0) } >Reset</button>       
