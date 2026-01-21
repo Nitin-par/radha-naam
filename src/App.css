@@ -107,7 +107,7 @@ span {
   color: #ff5733;
 }
 
-#history {
+#history1 {
   margin-top: 20px;
   white-space: pre-wrap;
   text-align: left;
@@ -115,7 +115,7 @@ span {
   padding: 10px;
   max-height: 200px;
   overflow-y: auto;
-  color: #000000;
+  color: #ffffff;
   background-color: #000000;
 
   border-radius: 8px;
